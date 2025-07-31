@@ -16,6 +16,7 @@
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
       <p class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</p>
+      <p class="display-4">Hello DevOps Students of RMIT Vietnam! [This is a new commit 2025]</p>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
       <p class="lead">This is a very simple website template that uses bootstrap CSS framework!</p>
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!!</p>
